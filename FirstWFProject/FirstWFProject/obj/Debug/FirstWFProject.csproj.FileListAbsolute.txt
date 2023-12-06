@@ -1,0 +1,13 @@
+D:\C++ projects\FirstWFProject\FirstWFProject\bin\Debug\FirstWFProject.exe.config
+D:\C++ projects\FirstWFProject\FirstWFProject\bin\Debug\FirstWFProject.exe
+D:\C++ projects\FirstWFProject\FirstWFProject\bin\Debug\FirstWFProject.pdb
+D:\C++ projects\FirstWFProject\FirstWFProject\obj\Debug\FirstWFProject.csproj.AssemblyReference.cache
+D:\C++ projects\FirstWFProject\FirstWFProject\obj\Debug\FirstWFProject.Form1.resources
+D:\C++ projects\FirstWFProject\FirstWFProject\obj\Debug\FirstWFProject.Properties.Resources.resources
+D:\C++ projects\FirstWFProject\FirstWFProject\obj\Debug\FirstWFProject.csproj.GenerateResource.cache
+D:\C++ projects\FirstWFProject\FirstWFProject\obj\Debug\FirstWFProject.csproj.CoreCompileInputs.cache
+D:\C++ projects\FirstWFProject\FirstWFProject\obj\Debug\FirstWFProject.exe
+D:\C++ projects\FirstWFProject\FirstWFProject\obj\Debug\FirstWFProject.pdb
+D:\C++ projects\FirstWFProject\FirstWFProject\obj\Debug\FirstWFProject.PersonForm.resources
+D:\C++ projects\FirstWFProject\FirstWFProject\bin\Debug\BirthdayDB.mdf
+D:\C++ projects\FirstWFProject\FirstWFProject\bin\Debug\BirthdayDB_log.ldf
